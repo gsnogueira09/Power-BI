@@ -19,3 +19,7 @@ Summary
   - Description of Project 8 (Proj8-requisitos.pdf)
   - Power BI project with visualizations (Proj8.pbix)
   - Dashboard in PDF (Proj8_Vis.pdf)
+* Proj 9
+  - Description of Project 9 (Proj9-requisitos.pdf)
+  - Power BI project with visualizations (Proj9.pbix)
+  - Dashboard in PDF (Proj9_Vis.pdf)
