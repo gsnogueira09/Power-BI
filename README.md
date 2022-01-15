@@ -8,6 +8,7 @@ The projects and the visualizations are attached in Power BI and PDF. The Projec
 
 Important notes
 * The questions 5 and 6 in Project 7 could not be answered due to the lack of data in the dataset. The information was confirmed in the course.
+* Project 8 requested that the visualisation were created for smartphones, but it was changed for a Power BI Desktop view.
 
 Summary
 * Proj 7
