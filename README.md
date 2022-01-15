@@ -8,3 +8,9 @@ The projects and the visualizations are attached in Power BI and PDF. The Projec
 
 Important notes
 * The questions 5 and 6 in Project 7 could not be answered due to the lack of data in the dataset. The information was confirmed in the course.
+
+Summary
+* Proj 7
+  - Description of Project 7 (Proj7-requisitos.pdf)
+  - Power BI project with visualizations (Proj7.pbix)
+  - Dashboard in PDF (Proj7_Vis.pdf)
